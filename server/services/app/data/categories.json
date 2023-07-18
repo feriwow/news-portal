@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Economy",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "name": "Tech",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "name": "News",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "name": "Politic",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "name": "Lifestyle",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    }
+]

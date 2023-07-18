@@ -1,0 +1,231 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "wowow",
+      "email": "wow@wow.com",
+      "password": "123456",
+      "role": "Admin",
+      "phoneNumber": "08080808080",
+      "address": "bintaro"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Economy",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 2,
+      "name": "Tech",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 3,
+      "name": "News",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 4,
+      "name": "Politic",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 5,
+      "name": "Lifestyle",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "Lowongan! Kereta Cepat Buka Lowongan Kerja Besar-Besaran Nih",
+      "slug": "Lowongan!-Kereta-Cepat-Buka-Lowongan-Kerja-Besar-Besaran-Nih",
+      "content": "Jakarta, CNBC Indonesia - PT Kereta Cepat Indonesia China (KCIC) membuka lowongan jelang target operasi medio Agustus 2023.\nKCIC membuka lowongan formasi SDM Passenger Service yang tentunya tak sedikit sumber daya manusia yang dibutuhkan. KCIC membuka kesempatan kepada masyarakat untuk bergabung dengan layanan Kereta Api Cepat Jakarta Bandung. Kali ini rekrutmen dibuka dengan skema Walk In Interview di Politeknik Pariwisata NHI Bandung pada 14-15 Juni 2023.\n\nManager Corporate Communication KCIC Emir Monti mengatakan, setelah sebelumnya Walk In Interview dilakukan di Jakarta, kali ini KCIC kembali membuka rekrutmen tersebut di Bandung untuk menjangkau lebih banyak masyarakat. Lowongan dibuka untuk jabatan Conductor dan Train Attendant bagi pria dan wanita dengan pendidikan minimal SLTA.\n\n\"Kehadiran Kereta Api Cepat Jakarta Bandung tidak hanya memberikan manfaat kemudahan konektivitas, tapi juga membuka lapangan-lapangan pekerjaan baru yang dapat meningkatkan kesejahteraan dan perekonomian masyarakat. Pelaksanaan rekrutmen ini juga merupakan salah satu tahapan persiapan KCIC dalam mengoperasikan KCJB melalui SDM terbaik Indonesia,\" ujar Emir dalam pernyataan resmi, dikutip Senin (12/6/2023).\n\nCalon petugas pelayanan pelanggan diharapkan memiliki pengalaman di bidang hospitality, kemampuan komunikasi yang baik, berpenampilan menarik, serta mampu menangani berbagai kebutuhan pelanggan. Diperlukan SDM-SDM terbaik untuk melayani seluruh penumpang karena KCJB merupakan moda transportasi teknologi baru yang akan menjadi harapan Indonesia.\n\nBagi masyarakat yang ingin melamar, dapat langsung hadir di Politeknik Pariwisata NHI Bandung pada 14-15 Juni 2023. Informasi selengkapnya terkait syarat dan ketentuan rekrutmen dapat dilihat di kcic.co.id/karir\n\nEmir menambahkan, sebelum hadir ke lokasi para peserta diharapkan telah memastikan dirinya sesuai dengan persyaratan dan membawa dokumen yang ditentukan agar pelaksanaan menjadi lebih lancar.\n\n\"KCIC juga mengimbau kepada masyarakat agar mewaspadai terhadap segala jenis bentuk informasi yang terindikasi penipuan dengan mengatasnamakan rekrutmen KCIC. Masyarakat agar mengabaikan pihak-pihak yang menjanjikan dapat membantu meluluskan peserta rekrutmen,\" kata Emir.",
+      "imgUrl": "https://akcdn.detik.net.id/visual/2023/05/23/kereta-cepat-jakarta-bandung-kcjb-atau-comprehensive-inspection-train-cit-terlihat-saat-uji-coba-pada-23-mei-2023-di-stasiun-k-2_169.jpeg?w=715&q=90",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "title": "Harga iPhone 15 Bakal Mahal Parah, Gaji UMR Jangan Mimpi!",
+      "slug": "Harga-iPhone-15-Bakal-Mahal-Parah,-Gaji-UMR-Jangan-Mimpi!",
+      "content": "Jakarta, CNBC Indonesia - Merujuk ke tahun-tahun sebelumnya, Apple dijadwalkan akan meluncurkan iPhone 15 teranyar pada akhir tahun ini. Bocoran soal iPhone 15 pun sudah ramai wara-wiri di internet.\nTerbaru, analis Wall Street Dan Ives memprediksi kisaran harga yang akan dipatok untuk iPhone 15. Sebagai catatan, Dan Ives terkenal dengan prediksinya yang akurat.\n\nNamun, prediksi ini juga belum bisa ditelan mentah-mentah. Sebab, belum ada konfirmasi resmi dari Apple.\n\nMenurut Ives, Apple akan menaikkan harga iPhone 15 secara signifikan. Sebelumnya, Ives juga pernah memprediksi kenaikan harga untuk seri iPhone 14 keluaran tahun lalu.\n\nSeperti diketahui, seri iPhone 14 secara global memang mengalami kenaikan harga di rentang US$ 80 hingga US$ 172.\n\nDalam sesi wawancara bersama CNBC International, Ives mengatakan Apple masih akan melanjutkan strategi kenaikan harga pada iPhone 15. Bahkan, dengan rentang yang lebih mahal.\n\nLebih spesifik, Ives mengatakan harga yang akan dinaikkan gila-gilaan adalah varian 'Pro'. Kisaran kenaikannya di angka US$ 200 atau setara Rp 2,9 juta.\n\nSebagai perbandingan, harga iPhone 14 Pro Max untuk pasar internasional saat ini dipatok mulai US$ 1.099 atau setara Rp 16,3 juta. Harganya di Indonesia setelah diskon mulai Rp 20 juta.\n\nSementara itu, lini iPhone 14 Pro secara internasional dipatok US$ 999 atau sekitar Rp 14,8 juta. Di Indonesia memang lebih mahal, yakni mulai 18 juta setelah diskon.\n\nJika penambahan harga internasional mencapai US$ 200, maka di Indonesia angkanya biasa akan lebih tinggi.\n\nDengan harga HP yang tembus lebih dari Rp 20 juta atau sekitar 4-5 kali UMR Jakarta, bisa dibilang memang lumayan menguras kantong bagi masyarakat umum.\n\nNamun, melalui strategi ini, Ives meramalkan Apple akan menaikkan vauasinya. Ia memperkirakan pabrikan Cupertino itu akan bernilai sekitar US$ 3,5-4 triliun dalam 18-24 bulan ke depan.\n\nSaat ini, valuasi Apple berada di angka US$ 2,85 triliun. Ives mengatakan \"Apple bermain catur, ketika yang lainnya bermain dam\".\n\nArtinya, Apple tak main-main soal bisnis. Raksasa tersebut tak segan-segan menawarkan harga mahal dengan menawarkan barang yang diminati masyarakat.\n\nTerlepas dari kredibilitasnya sebagai analis selama ini, prediksi Ives belum bisa diyakini 100% hingga iPhone 15 benar-benar diluncurkan. Kita tunggu saja!",
+      "imgUrl": "https://akcdn.detik.net.id/visual/2022/09/08/peluncuran-produk-apple-baru_169.jpeg?w=715&q=90",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "title": "Binance Besok Lumpuh, Dihabisi di Amerika Serikat",
+      "slug": "Binance-Besok-Lumpuh,-Dihabisi-di-Amerika-Serikat",
+      "content": "Jakarta, CNBC Indonesia - Binance besok, Selasa (13/6/2023), mulai diblokir di Amerika Serikat. Pemblokiran ini adalah bagian dari gugatan otoritas bursa AS atas dugaan penipuan di Binance.\nMitra perbankan Binance, menurut CNBC International, sedang dalam proses membekukan akses transaksi ke platform perdagangan kripto yang tengah bermasalah tersebut.\n\nMulai pekan ini, tepatnya 13 Juni 2023, warga AS terancam tak bisa lagi melakukan transaksi dengan mata uang dolar AS untuk membeli kripto di platform Binance.\n\nBinance dan bosnya, Changpeng 'CZ' Zhao, dituding oleh otoritas bursa ASM sebagai penipu. Binance diduga melakukan penggelapan dana nasabah dan memanipulasi bursa kripto.\n\n\nAset senilai US$ 11 miliar (sekitar Rp 164 triliun) diketahui mengalir dari Binance ke kas perusahaan milik bos Binance, Merit Peak.\n\nMerit Peak adalah perusahaan perdagangan aset finansial yang berbasis di Seychelles, lokasi yang populer sebagai wilayah bebas pajak.\n\nAliran aset investor Binance ke Merit Peak terungkap dalam surat gugatan yang dilayangkan SEC ke pengadilan. Fakta ini, menurut Reuters, menjadi salah satu dasar SEC meminta pengadilan Amerika Serikat untuk membekukan aset Binance.\n\nSEC mengatakan mitra perbankan Binance selama ini antara lain Axos Bank, Cross River Bank, Silvergate, Signature, dan Silicon Valley Banks. Selama ini, bank-bank tersebut telah membantu proses transaksi Binance senilai miliaran dollar AS.\n\nPada Kamis (8/6) malam kemarin, Binance mengumumkan soal pembekuan yang diajukan SEC. Melalui Twitter, Binance mengatakan bahwa tuntutan SEC tak adil.\n\n\"Ini adalah tuntutan perdata yang tidak dapat dibenarkan pada bisnis kami,\" kata Binance melalui akun Twitter miliknya.\n\nHingga kini, website Binance.US masih bisa diakses. Namun, Binance mengatakan sudah berinisiatif lebih dulu untuk memblokir kemampuan pelanggan membeli dan menaruh deposit di platform-nya.\n\nPengguna Binance, menurut CNBC International, tak akan kehilangan uangnya. Mereka yang menarik uang dari Binance di hari penutupan, masih bisa mengonversi aset mereka ke stablecoin seperti tether. Kemudian, mereka bisa mengonversi kembali aset mereka ke dalam bentuk dolar di tempat lain.\n\nNamun, perkembangan terbaru ini menandakan bahwa partner perbankan Binance menilai perusahaan kripto ini terlalu penuh risiko untuk dipertahankan sebagai mitra.\n\nInformasi yang disediakan Binance ke SEC menyatakan bahwa bank yang bekerja sama dengan Binance termasuk Axos Bank, Cross River Bank, dan tiga bank yang bangkrut kemudian diselamatkan yaitu Silvergate, Siganture, dan Silicon Valley.\n\nMenurut CNBC International, sebagian dari bank di atas telah berhenti melayani transaksi Binance.\n\n",
+      "imgUrl": "https://akcdn.detik.net.id/visual/2023/06/08/changpeng-zhao-co-founder-ceo-binance_169.jpeg?w=715&q=90",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023",
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "title": "Risma Pernah Diperintah Salurkan Bansos Beras: Saya Tolak!",
+      "slug": "Risma-Pernah-Diperintah-Salurkan-Bansos-Beras:-Saya-Tolak!",
+      "content": "Jakarta, CNBC Indonesia - Menteri Sosial (Mensos) Tri Rismaharini mengaku pernah diperintah untuk menjalankan bantuan sosial (bansos), dengan menyalurkan beras dan minyak goreng untuk rakyat yang membutuhkan. Hanya saja Risma menolak tegas.\n\"Saat saya dilantik Presiden, beliau sampaikan ke saya, Bu kalau bisa jangan berupa barang sudah, kita bantu saja uang,\" kata Risma dalam konferensi pers, Rabu (24/5/2023)\n\n\"Itu saya pegang sehingga saat ada perintah itu bukan dari pak Presiden untuk saya beri bansos beras 2021 itu saya tolak,\" tegasnya.\n\nPenyaluran bansos dalam bentuk barang sangat berisiko. Baik dalam kepastian kuantitas, kualitas hingga kepastian bansos tersebut sampai langsung ke tangan orang yang berhak menerima. Hal tersebut juga rawan akan korupsi.\n\nBerbeda halnya dengan uang. Tingkat risikonya lebih rendah sebab langsung diambil oleh penerima dengan jumlah yang sudah ditentukan.\n\n\"Saya tidak mau karena saya pegang perintah pak Presiden jangan bantu dalam bentuk barang tapi dalam bentuk uang,\" paparnya.\n\nMaka dari itu bansos beras yang dikelola oleh Kemensos hanya terjadi di 2020 sebelum Risma menjadi Menteri. Pada 2021 dan 2022, program bansos beras kembali ada, akan tetapi tidak melalui Kemensos.\n\nHal yang sama juga terjadi ketika ada permintaan bansos dalam bentuk minyak goreng.\n\n\"Saya pegang itu perintah Pak Presiden bahwa saya tidak mau barang jadi termasuk kemarin apa bantuan minyak goreng saya nggak mau bentuk barang. Saya mau uang,\" pungkasnya.",
+      "imgUrl": "https://akcdn.detik.net.id/visual/2023/05/24/menteri-sosial-tri-rismaharini-saat-memberi-keterangan-pers-di-gedung-kementerian-sosial-ri-jakarta-rabu-245-kementerian-sosia-7_169.jpeg?w=715&q=90",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023",
+      "categoryId": 3
+    },
+    {
+      "id": 5,
+      "title": "Penjelasan Istana soal Jokowi Batal Bersepeda di GBK karena Ada SBY dan AHY",
+      "slug": "Penjelasan-Istana-soal-Jokowi-Batal-Bersepeda-di-GBK-karena-Ada-SBY-dan-AHY",
+      "content": "TEMPO.CO, Jakarta - Deputi Bidang Protokol, Pers, dan Media Sekretariat Presiden Bey Machmudin angkat bicara soal batalnya rencana Presiden Joko Widodo atau Jokowi bersepeda di kawasan Gelora Bung Karno (GBK) pada Ahad 11 Juni 2023. Agenda tersebut batal dilaksanakan ketika ada Susilo Bambang Yudhoyono (SBY) dan Agus Harimurti Yudhoyono (AHY) yang juga sedang berolahraga di sana dalam waktu bersamaan. \n\nMenurut Bey, Jokowi memang tidak keluar dari kawasan Istana Merdeka pada Ahad pagi kemarin. \n\n\n\"Bapak Presiden kemarin ada kegiatan internal di Istana Merdeka di pagi hari, enggak keluar sama sekali,\" ujar Bey saat dikonfirmasi, Senin, 12 Juni 2023. \n\nSebelumnya, Tempo mendapatkan informasi Jokowi bakal menuju kawasan CFD Sudirman - Thamrin dan bersepeda di kawasan GBK. Tempo mengonfirmasi informasi tersebut dengan mendatangi kawasan GBK dan menemui banyak Paspampres berjaga, serta sepeda yang hendak digunakan Jokowi juga telah disediakan di lokasi. \n\nNamun, hingga pukul 10.00 pagi, rombongan Jokowi tidak kunjung datang. Pasukan Paspampres kemudian mengangkut kembali sepeda tersebut menggunakan truk dan meninggalkan kawasan GBK.\n\n\nBey mengatakan Paspampres di kawasan GBK untuk berjaga-jaga. \n\n\"Paspampres sifatnya antisipasi saja, karena biasanya kalau Presiden Minggu pagi di Jakarta, menyapa masyarakat sambil berolahaga di CFD. Tapi kemarin tidak ke CFD, karena Bapak Presiden ada kegiatan internal dan acara internalnya sampai melewati waktu CFD,\" ujar Bey. ",
+      "imgUrl": "https://statik.tempo.co/data/2023/06/08/id_1210419/1210419_720.jpg",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023",
+      "categoryId": 4
+    },
+    {
+      "id": 6,
+      "title": "Masih Galau, IHSG Tak Mampu Tembus Level 6.700",
+      "slug": "Masih-Galau,-IHSG-Tak-Mampu-Tembus-Level-6.700",
+      "content": "Jakarta, CNBC Indonesia - Indeks Harga Saham Gabungan (IHSG) terkoreksi tipis 0,06% pada penutupan sesi I perdagangan Senin (12/6/23).\nBerdasarkan catatan dari Bursa Efek Indonesia (BEI), IHSG ditutup turun ke posisi 6.690,11.\n\nSebanyak 248 saham yang melemah, 278 saham menguat dan 203 saham tidak bergerak.\n\nBaca: IHSG Kembali Bergerak Stagnan, Terkoreksi Tipis ke 6.690\n\nHingga istirahat siang, sekitar 13 miliar saham terlibat yang berpindah tangan sebanyak 910 ribu kali. Selain itu, nilai perdagangan tercatat mencapai Rp4,3 triliun.\n\nMengutip data Refinitiv sebagian sektor melemah. Sektor Utilitas menjadi yang paling merugikan indeks turun hampir 4%.\n\nDi samping itu, saham milik PT Telkom Indonesia Tbk. terpantau menjadi pemberat utama IHSG sebesar 14,5 indeks poin. Disusul PT Bank Rakyat Indonesia Tbk dan PT Astra International Tbk. masing-masing sebesar 6,1 dan 5,8 indeks poin.\n\nPekan ini merupakan periode penting bagi pasar keuangan global dan Indonesia karena adanya rapat FOMC pada tanggal 13-14 Juni di AS. Pasar sangat menantikan keputusan kebijakan The Fed dalam rapat tersebut.\n\nBaca: Saham BBHI Ngacir Lagi, Enam Hari Meroket 73%\nJika The Fed memutuskan untuk menahan suku bunga, hal ini dapat berdampak positif bagi pasar keuangan Indonesia dengan aliran dana asing yang lebih deras. IHSG dan nilai tukar rupiah dapat menguat. Namun, jika The Fed tetap hawkish, IHSG dan rupiah dapat melemah karena investor mungkin akan meninggalkan pasar emerging market seperti Indonesia dan kembali ke AS.\n\nMayoritas pasar memprediksi bahwa The Fed akan mulai mengubah kebijakan hawkishnya dan menahan suku bunga acuan setelah menaikkan suku bunga sebesar 500 basis poin sejak Maret tahun sebelumnya.\n\nNamun, ada juga pasar yang masih percaya bahwa The Fed akan menaikkan suku bunga satu kali lagi pada bulan Juni sebelum menahannya atau bahkan memangkas suku bunga pada bulan Juli.\n\nBeberapa data terbaru AS menunjukkan perlambatan ekonomi, seperti indeks PMI non-manufaktur dan PMI manufaktur yang menurun, serta peningkatan jumlah klaim pengangguran.\n\nData inflasi AS juga akan menjadi faktor pertimbangan penting bagi The Fed dalam menentukan kebijakan suku bunga.\n\nSelain FOMC, rapat bank sentral Jepang (BoJ) dan bank sentral Eropa (ECB) juga akan mempengaruhi sentimen pasar. ECB diperkirakan akan menaikkan suku bunga acuannya, sementara BoJ kemungkinan akan mempertahankan suku bunga ultra rendahnya.\n\nDalam konteks domestik, data yang akan dirilis oleh Bank Indonesia, Badan Anggaran DPR RI, dan Badan Pusat Statistik (BPS) juga akan memengaruhi sentimen IHSG. Data survei konsumen, penjualan eceran, dan neraca perdagangan Indonesia akan menjadi perhatian pasar.",
+      "imgUrl": "https://akcdn.detik.net.id/visual/2018/01/05/607510bb-f8b9-426d-93da-ff89f3d838d7_169.jpeg?w=715&q=90",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023",
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "title": "Charlie Puth Konser di Jakarta, Harga Tiket Mulai Rp1,5 Juta",
+      "slug": "Charlie-Puth-Konser-di-Jakarta,-Harga-Tiket-Mulai-Rp1,5-Juta",
+      "content": "Jakarta, CNBC Indonesia - Musisi asal Amerika Serikat Charlie Puth dikonfirmasi akan menggelar konser di Jakarta pada 8 Oktober mendatang. Konser bertajuk The \"Charlie\" Live Experience itu akan berlangsung di Beach City International Stadium, Ancol, Jakarta Utara.\n\"ASIA. Pre sale access if you're on my newsletter!\" kata Charlie Puth dalam unggahan yang mengonfirmasi jadwal turnya.\n\nMenurut jadwal, Jakarta akan menjadi kota ketiga yang didatangi Charlie Puth dalam tur Asia kali ini. Ia memulai perjalanan dari Hong Kong pada 4 Oktober lalu dilanjutkan ke Bangkok, Thailand, pada 6 Oktober.\n\nSetelah konser di Jakarta, pelantun lagu \"We Don't Talk Anymore\" tersebut akan bertolak ke Singapura pada 10 Oktober, lanjut ke Tokyo pada 17-18 Oktober, kemudian berakhir di Seoul pada 20-21 Oktober.\n\nAdapun penjualan tiket konser Charlie Puth di Jakarta akan digelar pada 13 Juni untuk artist presale, 15 Juni untuk BCA Presale, dan 16 Juni untuk penjualan secara publik.\n\n ",
+      "imgUrl": "https://akcdn.detik.net.id/visual/2018/06/25/a6107c01-8572-4b8e-a6a2-2bd314e88bce_169.jpeg?w=715&q=90",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023",
+      "categoryId": 5
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "Lowongan",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "name": "Kereta",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "name": "KCIC",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 4,
+      "postId": 2,
+      "name": "Iphone15",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 5,
+      "postId": 2,
+      "name": "Mahal",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 6,
+      "postId": 3,
+      "name": "Binance",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 7,
+      "postId": 3,
+      "name": "AS",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 8,
+      "postId": 3,
+      "name": "Kripto",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 9,
+      "postId": 4,
+      "name": "Bansos",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 10,
+      "postId": 4,
+      "name": "Korupsi",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 11,
+      "postId": 4,
+      "name": "Mensos",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 12,
+      "postId": 5,
+      "name": "GBK",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 13,
+      "postId": 5,
+      "name": "SBY",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 14,
+      "postId": 5,
+      "name": "AHY",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 15,
+      "postId": 6,
+      "name": "IHSG",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    },
+    {
+      "id": 16,
+      "postId": 7,
+      "name": "CharliePuth",
+      "createdAt": "12/6/2023",
+      "updatedAt": "12/6/2023"
+    }
+  ]
+}

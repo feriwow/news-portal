@@ -1,0 +1,10 @@
+[
+    {
+      "username": "wowow",
+      "email": "wow@wow.com",
+      "password": "123456",
+      "role": "Admin",
+      "phoneNumber": "08080808080",
+      "address": "bintaro"
+    }
+  ]
