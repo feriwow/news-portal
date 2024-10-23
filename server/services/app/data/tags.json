@@ -1,0 +1,98 @@
+[
+    {
+        "postId": 1,
+        "name": "Tag01",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 1,
+        "name": "Tag02",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 1,
+        "name": "Tag03",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 2,
+        "name": "Tag04",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 2,
+        "name": "Tag05",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 3,
+        "name": "Tag06",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 3,
+        "name": "Tag07",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 3,
+        "name": "Tag08",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 4,
+        "name": "Tag09",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 4,
+        "name": "Tag10",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 4,
+        "name": "Tag11",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 5,
+        "name": "Tag12",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 5,
+        "name": "Tag13",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 5,
+        "name": "Tag14",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 6,
+        "name": "Tag15",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "postId": 7,
+        "name": "Tag16",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    }
+]

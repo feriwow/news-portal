@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Category 01",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "name": "Category 02",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "name": "Category 03",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "name": "Category 04",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    },
+    {
+        "name": "Category 05",
+        "createdAt": "12/6/2023",
+        "updatedAt": "12/6/2023"
+    }
+]
